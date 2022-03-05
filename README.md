@@ -25,6 +25,7 @@ According to your requirements, you can choose from a no-code software, a full-f
 |          Name              |      Description      | 
 |----------------------------|:---------------------:|
 |    [🖲 Digital Accordions api](https://github.com/opensourceducation/Digital-Accordions/tree/main/api)   | Set a couple of parameters and consume the results in real time with a webhook from api.opensourceducation.org |
+|                            | <strong> YOUR PROJECT IT WOULD BE HERE </strong>  |  
 
 <br/>
 <hr/>
@@ -41,7 +42,7 @@ According to your requirements, you can choose from a no-code software, a full-f
  |----------------------------|:---------------------:|
  | [🗒 Cheat sheets patterns](https://github.com/opensourceducation/Digital-Accordions/tree/main/cheatsheet_patterns)   | The oficial Data Frames collection from x-path patterns of informative pages for build machine learning clasifiers | 
  | [🗒 cheatsheet.txt](https://github.com/opensourceducation/Digital-Accordions/tree/main/cheatsheet_patterns)          |      And open iniciative and rules to write the x-path patterns in your webpage pretty similar to robots.txt              |
- |                            |  YOUR PROJECT IT WOULD BE HERE   |  
+ |                             |  <strong> YOUR PROJECT IT WOULD BE HERE </strong>  |  
 
  
  <br/>
@@ -60,5 +61,5 @@ According to your requirements, you can choose from a no-code software, a full-f
   |          Name              |      Description      | 
   |----------------------------|:---------------------:|
   |      [🪓  machete](https://github.com/jsvanilla/machete)           | Scrappy Web crawler for get digital accordions
- 
+  |                             |  <strong> YOUR PROJECT IT WOULD BE HERE </strong>  |  
  

@@ -36,12 +36,12 @@ According to your requirements, you can choose from a no-code software, a full-f
 
  ## 👾   Clasifiers    
  
- Classify questions, answers and versions. In addition to new learning material demanded by the labor market, triangulating the labor demand with the information of the new accordions to create learning paths. 
+ Classify questions, answers and versions of the knowledge. In addition to new learning material demanded by the labor market, triangulating the labor demand with the information of the new accordions to create learning paths. 
  
  |          Name              |      Description      | 
  |----------------------------|:---------------------:|
  | [🗒 Cheat sheets patterns](https://github.com/opensourceducation/Digital-Accordions/tree/main/cheatsheet_patterns)   | The oficial Data Frames collection from x-path patterns of informative pages for build machine learning clasifiers | 
- | [🗒 cheatsheet.txt](https://github.com/opensourceducation/Digital-Accordions/tree/main/cheatsheet_patterns)          |      And open iniciative and rules to write the x-path patterns in your webpage pretty similar to robots.txt              |
+ | [🗒 cheatsheet.txt](https://github.com/opensourceducation/Digital-Accordions/tree/main/cheatsheet_txt)          |      And open iniciative and rules to write the x-path patterns in your webpage pretty similar to robots.txt              |
  |                             |  <strong> YOUR PROJECT IT WOULD BE HERE </strong>  |  
 
  
@@ -60,6 +60,6 @@ According to your requirements, you can choose from a no-code software, a full-f
  
   |          Name              |      Description      | 
   |----------------------------|:---------------------:|
-  |      [🪓  machete](https://github.com/jsvanilla/machete)           | Scrappy Web crawler for get digital accordions
+  |      [🪓  machete](https://github.com/jsvanilla/machete)           | A web scraper for get Digital Accordions
   |                             |  <strong> YOUR PROJECT IT WOULD BE HERE </strong>  |  
  

@@ -1,2 +1,2 @@
-'web','version','xpath_version','node_version','text_version'
-'reactjs.org,17.0.2','//header//div/a[@href="/versions"]','<a class="css-zvm479" href="/versions">v<!-- -->17.0.2</a>','["v", "17.0.2"]'
+web,version,xpath_version,node_version,text_version
+reactjs.org,17.0.2,//header//div/a[@href=""/versions""],<a class=""css-zvm479"" href=""/versions"">v<!-- -->17.0.2</a>,[""v"", ""17.0.2""]

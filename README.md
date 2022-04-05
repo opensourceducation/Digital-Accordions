@@ -24,7 +24,6 @@ According to your requirements, you can choose from a no-code software, a full-f
 
 |          Name              |      Description      | 
 |----------------------------|:---------------------:|
-|    [🖲 Digital Accordions api](https://github.com/opensourceducation/Digital-Accordions/tree/main/api)   | Set a couple of parameters and consume the results in real time with a webhook from api.opensourceducation.org |
 |                            | <strong> YOUR PROJECT IT WOULD BE HERE </strong>  |  
 
 <br/>

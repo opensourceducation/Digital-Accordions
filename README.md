@@ -29,7 +29,7 @@ According to your requirements, you can choose from a no-code software, a full-f
 <br/>
 <hr/>
 
-# CREATE YOUR OWN SOLUTION WITH THIS PIECES
+# CREATE YOUR OWN PIPE SOLUTION WITH THIS PIECES
 
   <br/>
  

@@ -29,11 +29,11 @@ According to your requirements, you can choose from a no-code software, a full-f
 <br/>
 <hr/>
 
-# CREATE YOUR OWN PIPE SOLUTION WITH THIS PIECES
+# CREATE YOUR OWN ETL PIPE SOLUTION WITH THIS PIECES
 
   <br/>
  
- ## 👁‍🗨  WebHooks and Crawlers 
+ ## 👁‍🗨  Extract Helpers
  
   |          Name              |      Description      | 
   |----------------------------|:---------------------:|
@@ -43,20 +43,20 @@ According to your requirements, you can choose from a no-code software, a full-f
 
 <br/>
 
- ## 👾   Clasifiers    
+ ## 👾  Transform Helpers    
  
  Classify questions, answers and versions of the knowledge. In addition to new learning material demanded by the labor market, triangulating the labor demand with the information of the new accordions to create learning paths. 
  
  |          Name              |      Description      | 
  |----------------------------|:---------------------:|
- | [🗒 Cheat sheets patterns](https://github.com/opensourceducation/Digital-Accordions/tree/main/cheatsheet_patterns)   | The oficial Data Frames collection from x-path patterns of informative pages for build machine learning clasifiers | 
- | [🗒 cheatsheet.txt](https://github.com/opensourceducation/Digital-Accordions/tree/main/cheatsheet_txt)          |      And open iniciative and rules to write the x-path patterns in your webpage pretty similar to robots.txt              |
+ | [🗒 Crib sheet dataset ](https://github.com/opensourceducation/Digital-Accordions/tree/main/cheatsheet_patterns)   | The oficial Data Frames collection from x-path patterns of informative pages for build machine learning clasifiers | 
+ | [🗒 cheatsheet metatags ](https://github.com/opensourceducation/Digital-Accordions/tree/main/cheatsheet_txt)          |      And open iniciative to write html guidelines for make easier the webscrapping process             |
  |                             |  <strong> YOUR PROJECT IT WOULD BE HERE </strong>  |  
 
  
  <br/>
  
- ## 🪗  Updaters
+ ## 🪗  Load Helpers
  
  Update the users unique learning paths and educational material like courses or blogs
  

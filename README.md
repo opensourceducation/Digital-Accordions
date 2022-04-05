@@ -49,8 +49,8 @@ According to your requirements, you can choose from a no-code software, a full-f
  
  |          Name              |      Description      | 
  |----------------------------|:---------------------:|
- | [🗒 Crib sheet dataset ](https://github.com/opensourceducation/Digital-Accordions/tree/main/cheatsheet_patterns)   | The oficial Data Frames collection from x-path patterns of informative pages for build machine learning clasifiers | 
- | [🗒 cheatsheet metatags ](https://github.com/opensourceducation/Digital-Accordions/tree/main/cheatsheet_txt)          |      And open iniciative to write html guidelines for make easier the webscrapping process             |
+ | [🗒 cribsheet dataset ](https://github.com/opensourceducation/Digital-Accordions/tree/main/cribsheet_dataset)   | The oficial Data Frames collection from x-path patterns of informative pages for build machine learning clasifiers | 
+ | [🗒 cheatsheet metatags ](https://github.com/opensourceducation/Digital-Accordions/tree/main/cheatsheet_metatags)          |      And open iniciative to write html guidelines for make easier the webscrapping process             |
  |                             |  <strong> YOUR PROJECT IT WOULD BE HERE </strong>  |  
 
  

@@ -1,10 +1,10 @@
-"web","version","xpath_version","node_version","text_version"
-"reactjs.org","17.0.2","//header//div/a[@href=""/versions""]","<a class=""css-zvm479"" href=""/versions"">v<!-- -->17.0.2</a>","[""v"", ""17.0.2""]"
-"","","","",""
-"","","","",""
-"","","","",""
-"","","","",""
-"","","","",""
-"","","","",""
-"","","","",""
-"","","","",""
+"web","version","xpath_version","version_in_header_regex","node_version","text_version"
+"https://reactjs.org","17.0.2","//header//div/a[@href=""/versions""]/text()[2]","false","<a class=""css-zvm479"" href=""/versions"">v<!-- -->17.0.2</a>","[""v"", ""17.0.2""]"
+"https://docs.scrapy.org","2.6","//h1/text()","false",,
+"https://web3js.readthedocs.io/","1.7.3",,"true",,
+"https://docs.python.org/","3.10.4","//h1/text()","false",,
+"https://docs.ethers.io/","5.4","//body//nav//div[@class=""version""]/text()","false","<div class=""version"">v5.4</div>",
+"https://fastapi.tiangolo.com/","0.75.2","//header/nav/div[4]/a/div[2]/ul/li[1]/text()","false","<li class=""md-source__fact md-source__fact--version"">0.75.2</li>",
+,,,,,
+,,,,,
+,,,,,

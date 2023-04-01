@@ -7,4 +7,4 @@ app.version = "0.0.0"
 
 @app.get('/')
 def establish_connection():
-    return "api connected!"
+    return "datawebhook connected!"

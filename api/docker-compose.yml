@@ -1,0 +1,39 @@
+version: "3.8"
+
+services:
+  login:
+    build: ./services/login
+    ports:
+      - "8000:8000"
+  educative_data:
+    build: ./services/educative_data
+    ports:
+      - "8001:8001"
+  datawebhook:
+    build: ./services/datawebhook
+    ports:
+      - "8002:8002"
+  crud-mongodb:
+    build: ./crud-mongodb
+    ports:
+      - "8003:8003"
+  crud-postgres:
+    build: ./crud-postgres
+    ports:
+      - "8004:8004"
+  users:
+    build: ./services/login
+    ports:
+      - "8005:8005"
+  webscraper:
+    build: ./services/webscraper
+    ports:
+      - "8006:8006"
+  #api-chatgpt:
+  #  build: ./api-chatgpt
+  #  ports:
+  #    - "8004:8004"
+  #controller:
+  #  build: ./controller
+  #  ports:
+  #    - "8005:8005"

@@ -9,6 +9,6 @@ Backend services include complete new learning paths or minor updates to educati
 <br/>
 <hr/>
 
-# 🪗 Aditional Notes
+<h2 align=center> 🪗 Aditional Notes </h2>
  
 - I deleted the last concept in order to include IA and sharp my backend skills

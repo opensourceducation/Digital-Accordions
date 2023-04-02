@@ -7,4 +7,4 @@ client = TestClient(app)
 def test_establish_connection():
     response = client.get("/")
     assert response.status_code == 200
-    assert response.json() == "no_sql_controller connected!"
+    assert response.json() == "sql_controller connected!"

@@ -14,11 +14,11 @@ services:
     ports:
       - "8002:8002"
   crud-mongodb:
-    build: ./crud-mongodb
+    build: ./services/no_sql_controller
     ports:
       - "8003:8003"
   crud-postgres:
-    build: ./crud-postgres
+    build: ./services/sql_controller
     ports:
       - "8004:8004"
   users:
@@ -30,10 +30,10 @@ services:
     ports:
       - "8006:8006"
   #api-chatgpt:
-  #  build: ./api-chatgpt
+  #  build: ./services/api-chatgpt
   #  ports:
   #    - "8004:8004"
   #controller:
-  #  build: ./controller
+  #  build: ./services/controller
   #  ports:
   #    - "8005:8005"

@@ -2,6 +2,10 @@
 
 <br/>
 
+<p align="center">
+  <img src="https://github.com/opensourceducation/Digital-Accordions/actions/workflows/unit_integration_tests.yml/badge.svg">
+</p>
+
 Digital Accordions aims to provide affordable, real-time updates of new knowledge and rapidly iterate traditional or edtech learning paths for students based on variables such as strong skills, learning disabilities, labor demand, and intellectual curiosity. 
 
 Backend services include complete new learning paths or minor updates to educational materials inside the current learning path.  

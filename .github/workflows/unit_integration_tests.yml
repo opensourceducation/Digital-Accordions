@@ -1,0 +1,21 @@
+name: Unit & Integration Tests
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout del codigo
+        uses: actions/checkout@v2
+      - name: Iniciar servicios
+        run: cd api/ && docker-compose up -d
+      - name: Correr pruebas
+        run: |
+          docker-compose exec login pytest app/api/services/login
+      - name: Detener servicios
+        run: docker-compose down

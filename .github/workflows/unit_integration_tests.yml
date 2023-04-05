@@ -15,6 +15,6 @@ jobs:
       - name: Iniciar servicios
         run: cd api/ && docker-compose up -d
       - name: Correr pruebas
-        run: docker-compose --version # docker-compose exec -T login /bin/bash -c "pytest test_main.py"
+        run: docker-compose --version
       - name: Detener servicios
         run: docker-compose down

@@ -15,7 +15,7 @@ jobs:
       - name: Iniciar servicios
         run: cd api/ && docker-compose up -d
       - name: Correr pruebas
-        run: docker-compose exec -T login /bin/bash -c "pytest test_main.py" 2> test_output.txt || cat test_output.txt && exit 1
+        run: docker-compose exec -T login /bin/bash -c "pytest test_main.py" || exit 1
       #   if: always()
       # - name: Verificar pruebas
       #   run: cat test_output.txt

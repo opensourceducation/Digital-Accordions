@@ -18,4 +18,4 @@ Backend services include complete new learning paths or minor updates to educati
 - I deleted the last concept in order to include IA and sharp my backend skills
 - I want to create a modular boilerplate for fast deploying to Azure, AWS, GCP  & OpenShift either Serverless or Kubernetes cluster
 - You can also choose between Fastapi or NodeJS and choose any database storage
-- Config boilertplate file writed in very clear english instructions and you wont need documentation 
+- Config boilertplate file will be written in very clear english instructions and you wont need documentation 

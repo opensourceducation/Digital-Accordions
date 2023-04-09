@@ -29,11 +29,11 @@ services:
     build: ./services/webscraper
     ports:
       - "8006:8006"
-  #api-chatgpt:
-  #  build: ./services/api-chatgpt
-  #  ports:
-  #    - "8004:8004"
-  #controller:
-  #  build: ./services/controller
-  #  ports:
-  #    - "8005:8005"
+  api_chatgpt:
+    build: ./services/api_chatgpt
+    ports:
+      - "8007:8007"
+  controller:
+    build: ./services/controller
+    ports:
+      - "8008:8008"

@@ -10,7 +10,7 @@ fastapi==0.95.0
 h11==0.14.0
 httpcore==0.16.3
 httpx==0.23.3
-idna==3.4
+idna==3.7
 iniconfig==2.0.0
 packaging==23.0
 pluggy==1.0.0
